@@ -105,15 +105,3 @@ CrewAI coordinates these agents and passes outputs between them.
 * Special thanks to **Premveer Sir** for mentorship and guidance.
 
 Contributions and improvements are welcome — feel free to open issues or pull requests.
-
----
-
-## 📄 License
-
-This project is provided under the MIT License — see `LICENSE` for details.
-
----
-
-## 📬 Contact
-
-For questions or feedback, reach out on GitHub or email: `madhav@example.com` (replace with your contact).
