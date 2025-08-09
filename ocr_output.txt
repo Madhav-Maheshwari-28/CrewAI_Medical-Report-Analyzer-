@@ -1,0 +1,112 @@
+Patient Name: John Doe
+Patient ID: 123456789
+Date of Birth: 1985-04-12
+Gender: Male
+Report Date: 2023-06-15
+Referring Physician: Dr. Jane Smith
+Laboratory: ABC Diagnostics
+
+Complete Blood Count (CBC)
+Test                              Result        Units        Reference Range
+WBC (White Blood Cells)           6.5           x10^3/µL     4.0 - 11.0
+RBC (Red Blood Cells)             4.70          x10^6/µL     4.50 - 5.90
+Hemoglobin                        14.2          g/dL         13.5 - 17.5
+Hematocrit                        42.0          %            41.0 - 53.0
+MCV (Mean Corpuscular Volume)     89            fL           80 - 100
+MCH (Mean Corpuscular Hemoglobin) 30.2          pg           27 - 33
+MCHC (Mean Corpuscular Hb Conc.)  34.0          g/dL         32 - 36
+RDW (Red Cell Dist. Width)        12.5          %            11.5 - 14.5
+Platelets                         250           x10^3/µL     150 - 450
+Neutrophils                       55            %            40 - 70
+Lymphocytes                       35            %            20 - 45
+Monocytes                         6             %            2 - 8
+Eosinophils                       3             %            1 - 4
+Basophils                         1             %            0 - 1
+Absolute Neutrophil Count         3.6           x10^3/µL     1.8 - 7.7
+Absolute Lymphocyte Count         2.3           x10^3/µL     1.0 - 4.8
+Absolute Monocyte Count           0.4           x10^3/µL     0.2 - 0.8
+Absolute Eosinophil Count         0.2           x10^3/µL     0.0 - 0.5
+Absolute Basophil Count           0.1           x10^3/µL     0.0 - 0.1
+
+Comprehensive Metabolic Panel (CMP)
+Test                              Result        Units        Reference Range
+Glucose (Fasting)                 92            mg/dL        70 - 99
+BUN (Blood Urea Nitrogen)         14            mg/dL        7 - 20
+Creatinine                        1.00          mg/dL        0.74 - 1.35
+eGFR                              98            mL/min/1.73m2 ≥ 60
+Sodium                            139           mmol/L       135 - 145
+Potassium                         4.2           mmol/L       3.5 - 5.1
+Chloride                          103           mmol/L       98 - 107
+CO2 (Bicarbonate)                 25            mmol/L       22 - 29
+Calcium                           9.3           mg/dL        8.6 - 10.2
+Total Protein                     7.1           g/dL         6.3 - 7.9
+Albumin                           4.4           g/dL         3.5 - 5.0
+Globulin                          2.7           g/dL         2.0 - 3.5
+A/G Ratio                         1.6                         1.0 - 2.5
+Total Bilirubin                   0.7           mg/dL        0.1 - 1.2
+Alkaline Phosphatase              72            U/L          44 - 147
+AST (SGOT)                        22            U/L          10 - 40
+ALT (SGPT)                        28            U/L          7 - 56
+
+Lipid Panel
+Test                              Result        Units        Reference Range
+Total Cholesterol                 178           mg/dL        < 200
+HDL Cholesterol                   52            mg/dL        ≥ 40
+Triglycerides                     110           mg/dL        < 150
+LDL Cholesterol (Calculated)      104           mg/dL        < 130
+Non-HDL Cholesterol               126           mg/dL        < 160
+Cholesterol/HDL Ratio             3.4                         < 5.0
+
+Thyroid Function Tests
+Test                              Result        Units        Reference Range
+TSH                               2.10          µIU/mL       0.45 - 4.50
+Free T4                           1.2           ng/dL        0.8 - 1.8
+
+Hemoglobin A1c
+Test                              Result        Units        Reference Range
+HbA1c                             5.4           %            4.0 - 5.6
+Estimated Avg Glucose             108           mg/dL        68 - 126
+
+Vitamin Levels
+Test                              Result        Units        Reference Range
+Vitamin D, 25-Hydroxy             28            ng/mL        30 - 100
+Vitamin B12                       420           pg/mL        200 - 900
+Folate                            9.8           ng/mL        3.1 - 17.5
+
+Iron Studies
+Test                              Result        Units        Reference Range
+Serum Iron                        95            µg/dL        60 - 170
+TIBC                              330           µg/dL        250 - 450
+Transferrin Saturation            29            %            20 - 50
+Ferritin                          120           ng/mL        24 - 336
+
+Urinalysis
+Parameter                         Result        Units        Reference Range
+Color                             Yellow
+Appearance                        Clear
+Specific Gravity                  1.018                       1.005 - 1.030
+pH                                6.0                         5.0 - 8.0
+Protein                           Negative
+Glucose                           Negative
+Ketones                           Negative
+Bilirubin                         Negative
+Urobilinogen                      0.2           mg/dL        0.2 - 1.0
+Nitrite                           Negative
+Leukocyte Esterase                Negative
+Microscopic Examination:
+RBC                               0-2           /HPF         0 - 2
+WBC                               0-2           /HPF         0 - 5
+Epithelial Cells                  Few           /HPF         Few
+Bacteria                          None Seen
+Casts                             None Seen
+Crystals                          None Seen
+
+Notes:
+- Fasting status confirmed.
+- Results reviewed by: Dr. Alan Thompson, MD, Pathologist
+- Signature: Electronically signed on 2023-06-15 14:23
+
+Diagnostic Codes:
+Z00.00 - Encounter for general adult medical examination without abnormal findings
+
+End of Report

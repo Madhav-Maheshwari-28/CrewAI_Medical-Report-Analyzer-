@@ -1,0 +1,11 @@
+crewai
+crewai-tools
+openai
+gradio
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+load_dotenv
+PyMuPDF
+
